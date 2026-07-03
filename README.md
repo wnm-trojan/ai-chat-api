@@ -1,4 +1,4 @@
-# AI Chat API — Clean Architecture
+# AI Chat API
 
 FastAPI + OpenAI + JWT auth + Redis caching + Postgres, structured in four layers
 so business logic never depends on frameworks or infrastructure.
